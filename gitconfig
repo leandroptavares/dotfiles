@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leandroptavares@gmail.com
+	name = leandroptavares@gmail.com
